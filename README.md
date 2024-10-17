@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hola, soy Veronica Strizinec. 👋
 
-<!--
-**verostrizinec/verostrizinec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy Desarrolladora Web [Frontend], inicié en el mundo de la programación en el año 2022. Además, soy Licenciada en Administración de Empresas con más de 11 años de experiencia.
 
-Here are some ideas to get you started:
+## Proyectos destacados
+- [Susulenta]([link-a-proyecto-1](https://susulenta.netlify.app/))
+- [Tritato]([link-a-proyecto-2](https://tritato.netlify.app/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- HTML/CSS
+- JavaScript
+- React JS
+- Bootstrap
+- Git
+- Github
+
+## Conecta conmigo
+- [LinkedIn]([tu-linkedin](https://www.linkedin.com/in/veronicastrizinec/))
+
