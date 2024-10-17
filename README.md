@@ -1,7 +1,7 @@
 ## Hola, soy Veronica Strizinec. 👋
 
 ## Sobre mí
-Soy Desarrolladora Web [Frontend], inicié en el mundo de la programación en el año 2022. Además, soy Licenciada en Administración de Empresas con más de 11 años de experiencia.
+Soy Desarrolladora Web Frontend, inicié en el mundo de la programación en el año 2022. Además, soy Licenciada en Administración de Empresas con más de 11 años de experiencia.
 
 ## Proyectos destacados
 - Susulenta - [https://susulenta.netlify.app/](https://susulenta.netlify.app/)
